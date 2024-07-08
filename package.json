@@ -1,0 +1,22 @@
+{
+  "name": "termpad",
+  "version": "1.0.0",
+  "description": "minimalist command line notepad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrissuu/termpad.git"
+  },
+  "author": "chris su",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrissuu/termpad/issues"
+  },
+  "homepage": "https://github.com/chrissuu/termpad#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
